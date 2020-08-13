@@ -1,16 +1,18 @@
-# fbapp
+# Facebook Clone (UI)
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+The project is solely for practicing **Flutter Web.** It's a UI clone with dummy data without any backend
 
-This project is a starting point for a Flutter application.
+### Installation
+To run this project, clone this repository and run [run flutter -d chrome] command.
 
-A few resources to get you started if this is your first Flutter project:
+### Some Glimpse
+<p float="left">
+  <img src="screenshots/fb-web.png" width="150" alt="Home Page Web"  title="Home Page"/>
+  <img src="screenshots/fb-mobile.jpg" width="150"  alt="Home Screen Mobile" title="Stats Screen"/> 
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+>Made with love by **Utkarsh** :heart:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>*This PWA is built with sole intention of exploring and showcasing UI skills :relaxed:*
